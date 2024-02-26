@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to classify the risk of future self-harm in patients diagnosed with self-harm disorder by analyzing a time series of 8 emotions (happy, sad, angry, embarrassed, distressed, relaxed, guilty, and frustrated) and a label of the number of self-harm incidents. Using a gradient boost algorithm implemented with the Scikit-Learn library, the model predicts binary risk outcomes based on a dataset of 2135 records across 64 individuals. Additionally, the project includes a sensitivity calculation to evaluate model performance.
+This project focuses on enhancing sensitivity in predicting the risk of future self-harm among individuals diagnosed with self-harm disorder. Utilizing a gradient boosting classifier (GBC) and clinical data, the model aims to provide accurate predictions of future self-harm incidents. The classifier is trained on a dataset of 2135 records from 64 individuals, featuring time series data on 8 emotions (happy, sad, angry, embarrassed, distressed, relaxed, guilty, and frustrated) along with the number of self-harm incidents.
 
 ## Features
 
