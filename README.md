@@ -1,4 +1,4 @@
-# Self-Harm Risk Classifier
+# Gradient Boosting Classifier for Predicting Self-Harm Risk by enhancing sensitivity
 
 ## Project Overview
 
